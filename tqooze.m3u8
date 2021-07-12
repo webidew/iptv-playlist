@@ -331,9 +331,6 @@ https://livecdn.fptplay.net/hda/kixhd_hls.smil/playlist.m3u8
 #EXTINF:-1, tvg-id="309" group-title="MOVIES" tvg-logo="https://telegra.ph/file/a33a3bb6e02a1ba7a110c.png",Celestial Movies 天映频道
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 
-#EXTINF:-1, tvg-id=""group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png",Warner Movies
-http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
-
 #EXTINF:-1, tvg-name="CinemaWorld HD" group-title="MOVIES" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniERUYttKoqkZ8ET52eGHldoKF6T1Pket2A0bCr=s900-c-k-c0x00ffffff-no-rj",CinemaWorld
 http://210.210.155.35/uq2663/h/h04/01.m3u8
 
@@ -446,7 +443,7 @@ https://m3u-editor.com/serve/bfc043c0-cfe6-11eb-89e7-41d619033473/319388763
 https://m3u-editor.com/serve/bfc043c0-cfe6-11eb-89e7-41d619033473/319388777
 
 #EXTINF: -1, tvg-id="712" group-title="VARIETIES" tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893988.png", Warner TV HD
-https://m3u-editor.com/serve/bfc043c0-cfe6-11eb-89e7-41d619033473/319388778
+http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
 
 #EXTINF: -1, tvg-id="715" group-title="VARIETIES" tvg-logo="https://telegra.ph/file/afa7944f2ef89c711d58c.png", HGTV [ASIA]
 https://m3u-editor.com/serve/bfc043c0-cfe6-11eb-89e7-41d619033473/319388783
