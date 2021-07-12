@@ -283,10 +283,10 @@ https://m3u-editor.com/serve/bfc043c0-cfe6-11eb-89e7-41d619033473/319388782
 #EXTINF: -1,  tvg-id="" group-title="MOVIES" tvg-logo="https://247box.tv/wp-content/uploads/2020/11/247Player-copy.png", MOVIE 24/7
 https://m3u-editor.com/serve/bfc043c0-cfe6-11eb-89e7-41d619033473/319388740
 
-#EXTINF:-1, tvg-id="405" group-title="MOVIES" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png",HBO [Malay Sub]
+#EXTINF:-1, tvg-id="411" group-title="MOVIES" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png",HBO [Malay Sub]
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
-#EXTINF:-1, tvg-id="405" group-title="MOVIES" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png",HBO [Backup]
+#EXTINF:-1, tvg-id="411" group-title="MOVIES" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png",HBO [Backup]
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:-1, tvg-name="Red By HBO HD" group-title="MOVIES" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png",RED by HBO HD
@@ -478,7 +478,7 @@ http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
 #EXTINF: -1, tvg-name="" group-title="VARIETIES" tvg-logo="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png", Arirang TV [OPT]
 https://m3u-editor.com/serve/bfc043c0-cfe6-11eb-89e7-41d619033473/319388876
 
-#EXTINF: -1, tvg-="Now Jelli HD" group-title="VARIETIES" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160641140646da.png", Now Jelli HD
+#EXTINF: -1, tvg-name="Now Jelli HD" group-title="VARIETIES" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160641140646da.png", Now Jelli HD
 https://m3u-editor.com/serve/bfc043c0-cfe6-11eb-89e7-41d619033473/319388877
 
 #EXTINF: -1, tvg-name="Colors Tamil HD" group-title="VARIETIES" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160723588691kg.png", Colors Tamil HD
