@@ -46,9 +46,6 @@ http://51.79.208.146:61980/myplay/c_58014/index.m3u8
 #EXTINF:-1, tvg-id="146" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",TV Okey
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2164000.m3u8
 
-#EXTINF:-1, tvg-id="" group-title="MALAYSIA" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",TV IKIM
-http://edge.vediostream.com/abr/tvikim/playlist.m3u8
-
 #EXTINF:-1, tvg-id="114" group-title="MALAYSIA" tvg-name="TV Al-Hijrah" tvg-logo="https://telegra.ph/file/d32f701ade54ad5a6bc6e.png",Al-Hijrah CH114
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
@@ -72,6 +69,9 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_870_720p/index.m3u8
 
 #EXTINF:-1, tvg-id="" group-title="INDONESIA" tvg-logo="http://i.pinimg.com/originals/e1/84/ba/e184ba97127991917a5f1896d6232925.png",TRANSTV
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_733_720p/index.m3u8
+
+#EXTINF:-1, tvg-id="" group-title="INDONESIA" tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7@2x.png",Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="" group-title="INDONESIA" tvg-logo="https://i.pinimg.com/originals/cb/5d/ff/cb5dff63d7a4859197ec5ccab3cfe7eb.jpg",GTV
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_778_720p/index.m3u8
@@ -420,6 +420,18 @@ http://zalogitv.tech:8080/live/mastro-top/2323/11923.m3u8
 
 #EXTINF:-1, tvg-id="" group-title="SPORTS" tvg-logo="https://telegra.ph/file/85ce73284a53df7227367.png",beIN Sport 2
 http://zalogitv.tech:8080/live/mastro-top/2323/11984.m3u8
+
+#EXTINF:-1, tvg-id="" group-title="ISLAMI" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",TV IKIM
+http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+
+#EXTINF:-1, tvg-id="" group-title="ISLAMI" tvg-logo="https://quran.sr.sa/wp-content/uploads/2019/07/logoquran.png",Makkah TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
+
+#EXTINF:-1, tvg-id="" group-title="ISLAMI" tvg-logo="https://neda.sr.sa/wp-content/uploads/2019/08/logoneda.png",Medina TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+
+#EXTINF:-1, tvg-id="" group-title="ISLAMI" tvg-logo="https://i.imgur.com/uZ9YsVM.jpg" tvg-country="US",GuideUS TV
+http://stream.streamislam.com:8080/streamer/live/index.m3u8
 
 #EXTINF:-1, tvg-id="" group-title="VARIETIES" tvg-logo="https://telegra.ph/file/e424bfbee7d21fa51ea48.png",Drama Sangat
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
