@@ -472,7 +472,7 @@ http://50.7.161.82:8278/streams/d/Goshop2/playlist.m3u8
 #EXTINF:-1, tvg-id="394" group-title="VARIETIES" tvg-logo="https://telegra.ph/file/a14e7747aa9c336fc31d6.jpg",Oh!K
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 
-#EXTINF:-1, tvg-id="394" group-title="VARIETIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Foodnetworkasia.png",Food Network
+#EXTINF:-1, tvg-id="708" group-title="VARIETIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Foodnetworkasia.png",Food Network
 https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/food.network.usa.eastern.us.m3u8
 
 #EXTINF:-1, tvg-id="" group-title="VARIETIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsLIT2Ht1xm2yYISYtXfhuLn2DunbaeGqSfAX-PO4UoLzkqPCUCYLGRIT-okRD8_IOQ08&usqp=CAU",Travel
@@ -493,7 +493,7 @@ https://m3u-editor.com/serve/bfc043c0-cfe6-11eb-89e7-41d619033473/319388877
 #EXTINF: -1, tvg-name="Colors Tamil HD" group-title="VARIETIES" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160723588691kg.png", Colors Tamil HD
 https://m3u-editor.com/serve/bfc043c0-cfe6-11eb-89e7-41d619033473/319388878
 
-#EXTINF: -1, tvg-name="Colors Tamil HD" group-title="VARIETIES" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607250947892o.png", Polimer
+#EXTINF: -1, tvg-name="Polimer" group-title="VARIETIES" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607250947892o.png", Polimer
 https://m3u-editor.com/serve/bfc043c0-cfe6-11eb-89e7-41d619033473/319388879
 
 #EXTINF:-1, tvg-id="319" group-title="VARIETIES" tvg-logo="https://telegra.ph/file/51271889e52b820f079a3.png",TVB Xing He 星河
